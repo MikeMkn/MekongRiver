@@ -1,0 +1,63 @@
+*{
+    /*background-image: url("Images//FMorrison3.jpg");*/
+    border-image: stretch;
+    align-content: center;
+    border-image-width: auto;
+    color: white;
+
+    
+    
+}
+
+button {
+    background: black;
+}
+
+.heading {
+    color: white;           
+    font-size: large;
+}
+.logo {
+    block-size: 200px;
+    image-resolution: 100%;
+
+}
+
+.historypage 
+{ 
+   /* background-image: url("Images/F.Morrison9.jpeg");*/
+
+
+
+}
+
+
+
+
+
+.tourspage {
+    /*background-image: url(FMorissonArtwork/FMorrison10.jpg);*/
+    border-image: stretch;
+    align-content: center; 
+    border-image-width: auto;
+
+
+}
+
+
+
+.aboutpage {
+   /*background-image: url(FMorissonArtwork/FMorrison12.jpg);*/
+    border-image: stretch;
+    align-content: center; 
+    border-image-width: auto;
+
+}
+
+body {
+    background-image:url("Images/F.M\ 1.jpg");
+}
+
+
+
+
